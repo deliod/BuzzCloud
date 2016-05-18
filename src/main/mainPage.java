@@ -14,7 +14,7 @@ import property.commandAction;
 		
 			HashMap<String, String> h = new HashMap<String, String>();
 			h.put("view", "mainPage/mainPage.jsp");
-			
+			////브랜치추가
 			return h;
 		}
 	}
